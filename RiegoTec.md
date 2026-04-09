@@ -12,7 +12,7 @@ Esto previene el exceso o déficit de agua, ahorrando recursos y manteniendo las
 - **Jardineros aficionados** o dueños de plantas de interior (ej. oficinas, hogares).
 - **Estudiantes de electrónica/IoT** para proyectos educativos.
 - Personas con poco tiempo para cuidar plantas, como profesionales ocupados en entornos urbanos.
-
+-profesores con intereses investigativos de robotica aplicada en agricultura
 ## d. Entradas
 - **Sensor**: Sensor de humedad del suelo capacitivo.
 - **Tipo de señal**: Analógica (0-1023 en Arduino, donde valores bajos indican suelo seco). 
