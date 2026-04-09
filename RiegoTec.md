@@ -20,3 +20,9 @@ Riego-TEC
 - Indicadores adicionales:
   - LED verde (suelo húmedo) / rojo (seco y regando) - Señal digital.
   - Notificación vía Serial Monitor o app (texto: "Regando plantas").
+
+## d. Entradas
+- **Sensor**: Sensor de humedad del suelo capacitivo.
+- **Tipo de señal**: Analógica (0-1023 en Arduino, donde valores bajos indican suelo seco). 
+  - Umbral configurable: Si humedad < 30%, activa riego.
+- Opcional: Botón manual para riego forzado (señal digital).
