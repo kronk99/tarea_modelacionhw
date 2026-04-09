@@ -8,12 +8,6 @@ Riego-TEC
 - **Estudiantes de electrónica/IoT** para proyectos educativos.
 - Personas con poco tiempo para cuidar plantas, como profesionales ocupados en entornos urbanos.
 
-## d. Entradas
-- **Sensor**: Sensor de humedad del suelo capacitivo.
-- **Tipo de señal**: Analógica (0-1023 en Arduino, donde valores bajos indican suelo seco). 
-  - Umbral configurable: Si humedad < 30%, activa riego.
-- Opcional: Botón manual para riego forzado (señal digital).
-
 ## e. Salidas
 - **Actuador**: Bomba de agua sumergible de 5V (con relé para control seguro).
 - **Tipo de señal**: Digital (HIGH/LOW vía relé para encender/apagar la bomba por 5-10 segundos).
@@ -24,5 +18,5 @@ Riego-TEC
 ## d. Entradas
 - **Sensor**: Sensor de humedad del suelo capacitivo.
 - **Tipo de señal**: Analógica (0-1023 en Arduino, donde valores bajos indican suelo seco). 
-  - Umbral configurable: Si humedad < 30%, activa riego.
+- Umbral configurable: Si humedad < 30%, activa riego.
 - Opcional: Botón manual para riego forzado (señal digital).
